@@ -61,3 +61,8 @@
 - 提示词集中在：`backend/prompts.py`
 - 图像生成封装：`backend/services/images.py`
 - 更新 UI 主题/布局：`frontend/styles.css` 和 `frontend/index.html`
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
